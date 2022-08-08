@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.darkTheme {
+  background-color: black;
+  height: 100vh;
+}
+
+.button-wrapper {
+  margin-top: 350px;
+}
+
+button {
+  margin-right: 15px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 5px 8px;
+  background-color: aliceblue;
+}
